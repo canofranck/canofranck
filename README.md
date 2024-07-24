@@ -8,4 +8,6 @@
 - [**Portfolio**](https://canofranck.github.io/)
 
 
-    
+ ## 🔧 Technologies & Tools   
+[![VSC](https://img.shields.io/badge/editor-visual_studio_code-white
+)](https://code.visualstudio.com/)
