@@ -20,3 +20,18 @@
 [![Sqlite](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
 [![MySQL](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white)](https://www.mysql.com/fr/)
 [![PostgreSQL](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/)
+
+[![Django](https://img.shields.io/badge/Framework-django-informational?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Django REST](https://img.shields.io/badge/Framework-djangoRest-informational?style=flat&logo=django&logoColor=white)](https://www.django-rest-framework.org/)
+[![Flask](https://img.shields.io/badge/Framework-flask-informational?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/3.0.x/)
+[![Pytest](https://img.shields.io/badge/Framework-pytest-informational?style=flat&logo=pytest&logoColor=white)](https://docs.pytest.org/en/8.0.x/)
+[![Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![SQLAlchemy](https://img.shields.io/badge/Library-SQLAlchemy-informational?style=flat&logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org/)
+[![BS4](https://img.shields.io/badge/Library-BeautifulSoup-informational?style=flat)](https://www.crummy.com/software/BeautifulSoup/)
+
+[![Git](https://img.shields.io/badge/Tool-git-informational?style=flat&logo=git&logoColor=white)](https://github.com/)
+[![CircleCI](https://img.shields.io/badge/Tool-CircleCI-informational?style=flat&logo=CircleCI&logoColor=white)](https://circleci.com/)
+[![Docker](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=Docker&logoColor=white)](https://hub.docker.com/)
+[![Sentry](https://img.shields.io/badge/Tool-Sentry-informational?style=flat&logo=Sentry&logoColor=white)](https://sentry.io/)
+[![Sass](https://img.shields.io/badge/Tool-Sass-informational?style=flat&logo=Sass&logoColor=white)](https://sass-lang.com/)
+[![POSTMAN](https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=POSTMAN&logoColor=white)](https://www.postman.com/)
